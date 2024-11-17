@@ -44,7 +44,7 @@ body{
     border-width: 0.7px;
     border-style: solid;
     border-color: #000;
-    height: auto;
+    margin: 0px 0px -17px 0px;
 }
 .botaoenv:hover{
     background-color: rgb(92, 255, 155);
