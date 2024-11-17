@@ -16,25 +16,24 @@ body{
     height: auto;
 }
 .voltar{
-    height: 35px;
-    margin:0% 0% 0% -95%;
+    height: 29px;
+    margin: 0% 0% 0% -84%;
 }
 .bandeira{
     position: absolute;
-    margin: -57px 0% 0% 76%;
+    margin: -57px 0% 0% 70%;
     height: 80px;
     transition: 1s;
 }
 .bandeira:hover{
     position: absolute;
-    margin: -18px 0% 0% 76%;
+    margin: -16px 0% 0% 70%;
     height: 80px;
     transition: 1s;
 }
 .logo{
-    margin-top: 0px;
     position: relative;
-    height: 300px;
+    height: 345px;
 }
 .rodape{
     background:url(imagens/vírus.avif) center  center no-repeat fixed;
